@@ -1,0 +1,10 @@
+
+
+#*.pyc
+#_pycache__/
+
+#env/
+
+#.vscode/
+
+#*.log
